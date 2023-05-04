@@ -1,4 +1,4 @@
-package com.spodify.spodify
+package com.spodify
 
 import io.flutter.embedding.android.FlutterActivity
 
